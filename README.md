@@ -4,11 +4,6 @@
 
 This repository contains an analysis of the working of CMOS transistors in a 3-input NOR gate. The study explores the structure, logic function, and behavior of the NOR gate using CMOS technology.
 
-## Authors
-
-- **Keerthi Seela** (keerthi.seela@students.iiit.ac.in)  
-- **Anumula Venkata Sai Sree Sahithi** (sahithi.anumula@research.iiit.ac.in)  
-
 ## Contents
 
 - **Introduction**: Basics of logic gates and NOR gate functionality.
